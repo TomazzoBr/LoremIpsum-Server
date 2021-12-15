@@ -7,6 +7,8 @@
 
 Lorem Ipsum is a Typescript Web App that allows job applicants to easily curate their experience and skills, build their CV and manage their job applications.
 
+You can find the client repo on the [Lorem Ipsum Client](https://github.com/TomazzoBr/LoremIpsum-Client)
+
 
 # LoremIpsum-Server API end points
 
